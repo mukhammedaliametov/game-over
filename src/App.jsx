@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaRegCircleCheck } from "react-icons/fa6";
 import { IoIosCloseCircleOutline } from "react-icons/io";
-import './task';
 
 const App = () => {
   const [name, setName] = useState("");
